@@ -5,9 +5,10 @@ public class Demo1{
 		System.out.println("demo1 file");
 	}
 
-	Public void First()
+
+ void First()
 	{
-		Sysout("First method")
+		System.out.println("First method");
 	}
 	
 }
