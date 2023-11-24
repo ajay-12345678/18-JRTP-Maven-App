@@ -8,4 +8,10 @@ public class Demo {
 	
 	}
 
+Demo(){
+
+System.out.println("Demo Constructor Call");
+}
+
+
 }
