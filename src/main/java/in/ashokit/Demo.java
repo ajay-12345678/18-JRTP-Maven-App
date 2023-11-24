@@ -2,8 +2,9 @@ package in.ashokit;
 
 public class Demo {
 
+    private static Sring url="https:dst/getVideo";
+    private static final String Url="https:talidst/getVideo";	
 
-      private static final String Url="https:talidst/getVideo";	
 	public void main(String[] args){
 	
 	System.out.println("This is your first file");
