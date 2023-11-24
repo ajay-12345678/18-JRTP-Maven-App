@@ -7,5 +7,10 @@ public class Demo {
 	System.out.println("This is your first file");
 	
 	}
+Demo(){
+
+System.out.println("Demo COntructor called By Tushar ");
+}
+
 
 }
