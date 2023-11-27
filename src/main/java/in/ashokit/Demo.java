@@ -2,13 +2,13 @@ package in.ashokit;
 
 public class Demo {
 
-<<<<<<< HEAD
+
 	public void m1() {
 		
 		System.out.println("m1() method call");
 	}
-=======
-    private static Sring url="https:dst/getVideo";
+
+    private static String url="https:dst/getVideo";
     private static final String Url="https:talidst/getVideo";	
 
 	public void main(String[] args){
@@ -16,17 +16,22 @@ public class Demo {
 	System.out.println("This is your first file");
 	
 	}
-Demo(){
+   Demo(){
 
 System.out.println("Demo COntructor called By Tushar ");
 }
 
 
-Demo(){
+void Demo(){
 
 System.out.println("Demo Constructor Call");
+
+
+}
+
+public void AddUser() {
+	System.out.println("User Added");
 }
 
 
->>>>>>> 1bf0617360f6a81b7451153da5b03d8ddce91604
 }
